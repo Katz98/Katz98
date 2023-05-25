@@ -1,5 +1,5 @@
 <h1 align="left"> Hi, I'm Vojislav, but just call me Voya ✌️</h1>
-**'Digital Craftsman (Photographer, Gamer, Wannabe Rockstar)
+**'Digital Craftsman (Photographer, Gamer, Wannabe Rockstar)'**
 <h5 align="left">🎮 If you want to check out my stuff, I might a few games in my repo <h5>
 <h5 align="left">👕 I’m currently working on my own e-commerce store Printopiai (https://printopiai.com/)<h5>
 
