@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vojislav</h1>
-- 🔭 I’m currently working on my own e-commerce store [Printopiai](https://printopiai.com/)
+- 🔭 I’m currently working on my own e-commerce store Printopiai (https://printopiai.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
