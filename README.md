@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vojislav</h1>
-- If you want to check out my stuff, I have a few games in my repo. (Felt cute, might delete later) /n
-- 🔭 I’m currently working on my own e-commerce store Printopiai (https://printopiai.com/)
+<h1 align="left">🎮 Vojislav</h1>
+<h5 align="left"> If you want to check out my stuff, I might a few games in my repo) <h5>
+<h5 align="left"> I’m currently working on my own e-commerce store Printopiai (https://printopiai.com/) <h5>
 
 <h3 align="left">Connect with me: </h3>
 <h4 align="left"> andonovic.vojislav@gmail.com </h4>
