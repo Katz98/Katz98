@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vojislav</h1>
-- If you want to check out my stuff, I have a few stuff in my repo. (Felt cute, might delete later)
+- If you want to check out my stuff, I have a few games in my repo. (Felt cute, might delete later) /n
 - 🔭 I’m currently working on my own e-commerce store Printopiai (https://printopiai.com/)
 
 <h3 align="left">Connect with me: </h3>
