@@ -1,10 +1,11 @@
-<h1 align="left">🎮 Vojislav, but just call me Voya (y)</h1>
-<h5 align="left"> If you want to check out my stuff, I might a few games in my repo) <h5>
-<h5 align="left"> I’m currently working on my own e-commerce store Printopiai (https://printopiai.com/)<h5>
+<h1 align="left"> Hi, I'm Vojislav, but just call me Voya (y)</h1>
+<h5 align="left">🎮 If you want to check out my stuff, I might a few games in my repo <h5>
+<h5 align="left">👕 I’m currently working on my own e-commerce store Printopiai (https://printopiai.com/)<h5>
 
 <h3 align="left">Connect with me: </h3>
 <h4 align="left"> andonovic.vojislav@gmail.com </h4>
 <p align="left">
+  hiiiiiiiiiiiiiiiiiii
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
