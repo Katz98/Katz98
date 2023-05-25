@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on my own e-commerce store Printopiai (https://printopiai.com/)
 
 <h3 align="left">Connect with me: </h3>
-<h4 andonovic.vojislav@gmail.com </h4>
+<h4 align="left"> andonovic.vojislav@gmail.com </h4>
 <p align="left">
 </p>
 
