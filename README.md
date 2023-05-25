@@ -7,7 +7,8 @@ Digital Craftsman (Photographer, Gamer, Wannabe Rockstar)
 <h4 align="left"> andonovic.vojislav@gmail.com </h4>
   
 <p align="left">
-  hiiiiiiiiiiiiiiiiiii
+  About me:
+  Good stuff 👌
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
